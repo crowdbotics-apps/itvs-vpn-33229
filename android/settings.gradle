@@ -1,0 +1,3 @@
+rootProject.name = 'itvs_vpn_33229'
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
